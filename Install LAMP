@@ -1,0 +1,16 @@
+First refresh your package index...
+
+$ sudo apt-get update
+
+... and then install the LAMP stack:
+
+$ sudo apt-get install lamp-server^
+
+check apache server is running or not by 
+http://localhost/
+
+place php file in /var/www
+
+run through browser as 
+http://localhost/filename
+ 
